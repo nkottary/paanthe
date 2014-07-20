@@ -1,0 +1,5 @@
+todo
+-- add particle system for bullets and explosions.
+-- add different kinds of enemies.
+-- add power ups.
+-- make clouds objects and the background sky should change in color.
