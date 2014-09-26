@@ -18,7 +18,7 @@ function love.load()
 	explosion.load()
 	fonts.load()
 	sounds.load()
-	menu.load({'Start game', 'quit'})
+	menu.load({'Start game', 'Highscores', 'quit'})
 
 	gameState = 'menu'
 	initMenu()

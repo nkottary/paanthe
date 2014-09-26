@@ -3,3 +3,7 @@ todo
 -- add different kinds of enemies.
 -- add power ups.
 -- make clouds objects and the background sky should change in color.
+-- add Quit? yes no instead of pause.
+-- hovering arrow in menu and pause.
+-- enemies spawned by xml file.
+-- add highscores page, if players score is within top 5 scores then ask for name and enter in scores table.
